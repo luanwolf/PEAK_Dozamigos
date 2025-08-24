@@ -1,8 +1,8 @@
 # 📦 PEAK_Dozamigos - Changelog
 
-**Versão:** 1.0.0  
-**Data de lançamento:** 13/08/2025  
-**Descrição:** Primeira versão oficial do modpack criado para jogar PEAK com os amigos. Foco em melhorias visuais, qualidade de vida, correções de bugs e personalização.
+**Versão:** 1.0.2  
+**Data de lançamento:** 24/08/2025  
+**Descrição:** Atualização de mods e ajustes gerais de estabilidade. Dependências revisadas e reorganizadas para maior compatibilidade.
 
 ---
 
@@ -18,7 +18,7 @@
 - **PEAK Unlocker**  
   Deixa todos os cosméticos liberados (Sem atrapalhar nas conquistas e badges).
 
-- **Passpor Pagination**  
+- **Passport Pagination**  
   Adiciona paginação ao passaporte para facilitar a navegação.
 
 - **Settings Extender**  
@@ -34,13 +34,13 @@
   Cria zonas seguras ao redor de fogueiras.
 
 - **Easy Backpack**  
-  Facilita o gerenciamento da mochila.
+  Facilita o gerenciamento da mochila (B).
 
 - **Stamina Stats**  
   Exibe estatísticas detalhadas de estamina.
 
 - **Third Person Toggle**  
-  Permite alternar entre primeira e terceira pessoa.
+  Permite alternar entre primeira e terceira pessoa (V).
 
 - **Reconnect Catchup**  
   Sincroniza progresso ao reconectar.
@@ -49,10 +49,16 @@
   Melhora a detecção e captura de jogadores.
 
 - **Peak Cinema**  
-  Adiciona modo cinema para visualização imersiva.
+  Adiciona modo cinema para visualização imersiva (F3).
 
 - **Virtuoso**  
-  Sistema de talentos e habilidades aprimorado.
+  Apenas os melhores tocares de trombones conseguirão toca-lo.
+
+- **FrontDesk**  
+  Trás os quiosques para saída do elevador.
+
+- **Always Display Player Name**  
+  Mostra sempre o nome dos jogadores.
 
 ---
 
@@ -68,10 +74,16 @@
   Adiciona opções extras de customização.
 
 - **Kyle's Hats and Accessories**  
-  Conjunto de acessórios e chapéus criativos.
+  Conjunto de acessórios e chapéus.
 
 - **Face Customization Plus**  
   Personalização facial avançada.
+
+- **Skin Color Sliders**  
+  Novos controles para personalização de cor de pele.
+
+- **Windows XP Faint**  
+  Efeito visual clássico do Windows XP ao morrer e ressucitar.
 
 ---
 
@@ -94,19 +106,19 @@
 ## ⚙️ Performance & Correções
 
 - **PEAK Unbound**  
-  Remove limitações de movimentação e interação.
+  Permite configurar as teclas do jogo.
 
 - **PEAK Unlimited**  
-  Expande funcionalidades sem restrições.
+  Permite jogar com até 20 players no mesmo lobby.
 
 - **PEAK Fast Startup**  
   Acelera o tempo de inicialização do jogo.
 
 - **Push Mod**  
-  Sistema de empurrões entre jogadores.
+  Sistema de empurrões entre jogadores (F).
 
 - **Dance Till You Drop**  
-  Adiciona animações de dança.
+  Nunca para de dançar.
 
 - **DetourContext Dispose Fix**  
   Corrige vazamentos de memória em detours.
@@ -114,13 +126,19 @@
 - **AutoHookGen Patcher**  
   Gera automaticamente hooks para patching.
 
+- **Photon Custom Props Utils**  
+  Utilitário para manipulação avançada de propriedades customizadas.
+
+- **Disable Space Climb**  
+  Desabilita escalada em espaço para evitar exploits.
+
 ---
 
 ## 📌 Observações
 
-- Todos os mods foram validados para compatibilidade com a versão atual do PEAK.
-- Recomenda-se utilizar o BepInEx atualizado para garantir estabilidade.
-- Este modpack foi testado em sessões multiplayer e estável em servidores dedicados.
+- Dependências atualizadas e reorganizadas conforme lista enviada.  
+- Removidos mods (**Ping Distance** e **Infinite Flares Mod**).  
+- Melhorias de compatibilidade e estabilidade geral.
 
 ---
 

@@ -7,7 +7,7 @@ Modpack personalizado para o jogo **PEAK**, criado com carinho para jogar com me
 ## 📦 Sobre o Modpack
 
 - **Nome:** PEAK_Dozamigos  
-- **Versão:** 1.0.0  
+- **Versão:** 1.0.2  
 - **Autor:** [Luan](https://github.com/luanwolf)  
 - **Descrição:** Modpack para PEAK que fiz para jogar com meus amigos.  
 - **Repositório:** [GitHub - PEAK_Dozamigos](https://github.com/luanwolf/PEAK_Dozamigos)
@@ -18,6 +18,7 @@ Modpack personalizado para o jogo **PEAK**, criado com carinho para jogar com me
 
 Este modpack inclui:
 
+- 🎮 Atalhos para utilizar mochila (B), empurrar (F), binoculos (C).
 - ✅ Correções de bugs (fogo, lava, vinhas, tempestades)  
 - 🎨 Personalização de personagens (chapéus, rostos, acessórios)  
 - ⚙️ Melhorias de desempenho e inicialização  
